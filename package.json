@@ -1,5 +1,5 @@
 {
-  "name": "tree-view-favourite",
+  "name": "tree-view-favourites",
   "version": "0.2.2",
   "main": "./lib/main",
   "description": "Add files to a favourites section in tree-view-plus. Favourites persist globally across projects.",
