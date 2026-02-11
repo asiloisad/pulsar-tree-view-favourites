@@ -13,7 +13,7 @@
 
   '.tree-view .tree-view-special .tree-view-special-entry': [
     {'type': 'separator'}
-    {'label': 'Remove from Favourites', 'command': 'tree-view-favourites:remove'}
+    {'label': 'Remove from Group', 'command': 'tree-view-favourites:remove'}
     {'label': 'Copy Full Path', 'command': 'tree-view:copy-full-path'}
     {'type': 'separator'}
   ]
