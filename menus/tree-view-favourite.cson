@@ -1,11 +1,11 @@
 'context-menu':
   '.tree-view .full-menu .entry': [
     {'type': 'separator'}
-    {'label': 'Add to Favourites', 'command': 'tree-view-favourite:add'}
+    {'label': 'Add to Favourites', 'command': 'tree-view-favourites:add'}
   ]
 
   '.tree-view .favourites-section .favourite-entry': [
-    {'label': 'Remove from Favourites', 'command': 'tree-view-favourite:remove'}
+    {'label': 'Remove from Favourites', 'command': 'tree-view-favourites:remove'}
     {'type': 'separator'}
     {'label': 'Copy Full Path', 'command': 'tree-view:copy-full-path'}
   ]
