@@ -20,7 +20,7 @@
         "1.0.0": "consumeTreeView"
       }
     },
-    "roots": {
+    "tree-view-roots": {
       "versions": {
         "1.0.0": "consumeRoots"
       }

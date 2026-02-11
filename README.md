@@ -8,7 +8,7 @@ Add files and folders to a favourites section in [tree-view-plus](https://web.pu
 
 To install `tree-view-favourite` search for [tree-view-favourite](https://web.pulsar-edit.dev/packages/tree-view-favourite) in the Install pane of the Pulsar settings or run `ppm install tree-view-favourite`. Alternatively, you can run `ppm install asiloisad/pulsar-tree-view-favourite` to install a package directly from the GitHub repository.
 
-Requires [tree-view-plus](https://web.pulsar-edit.dev/packages/tree-view-plus) for the `roots` and `tree-view` services.
+Requires [tree-view-plus](https://web.pulsar-edit.dev/packages/tree-view-plus) for the `tree-view-roots` and `tree-view` services.
 
 ## Features
 
