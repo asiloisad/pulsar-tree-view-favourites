@@ -1,6 +1,6 @@
 {
   "name": "tree-view-favourites",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "main": "./lib/main",
   "description": "Add files and folders to a favourites section in tree-view-plus",
   "repository": "https://github.com/asiloisad/pulsar-tree-view-favourites",
